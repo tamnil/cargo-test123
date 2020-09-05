@@ -3,7 +3,10 @@ name = "teste123"
 version = "0.0.0"
 authors = ["Tamnil Saito Junior <tamnil@gmail.com>"]
 edition = "2018"
-
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+description = "Test cargo package"
+license = "MIT"
 
 [dependencies]
